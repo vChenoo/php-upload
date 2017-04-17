@@ -1,2 +1,2 @@
 # php-upload
-php-upload
+easy php-upload
